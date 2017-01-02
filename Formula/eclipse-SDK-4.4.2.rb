@@ -1,4 +1,4 @@
-cask 'eclipse-ide' do
+cask 'eclipse-SDK-4.4.2' do
   //version '4.4.2,Luna:1a'
   sha256 '67eb608808e54011570d6b3c5f6ca0e360e397e80d92accc8f9e361ca7522125'
 
